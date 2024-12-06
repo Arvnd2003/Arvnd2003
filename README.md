@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-- 🔭 I'm currently working on web development, AI projects<br>- 🌱 I'm currently learning TensorFlow, Javascript<br>- 🤝 I'm looking for help with Computer Vision<br>- 💬 Ask me about Web Development
+- 🔭 I'm currently working on web development, AI projects<br>- 🌱 I'm currently learning React, Javascript<br>- 🤝 I'm looking for help with Computer Vision<br>- 💬 Ask me about Web Development
 
 
 ## 🌐 Socials:
